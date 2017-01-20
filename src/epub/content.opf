@@ -56,10 +56,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joseph_conrad</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<dc:contributor id="artist">Claude Monet</dc:contributor>
+		<meta property="file-as" refines="#artist">Monet, Claude</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Oscar-Claude Monet</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Claude_Monet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055527</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
