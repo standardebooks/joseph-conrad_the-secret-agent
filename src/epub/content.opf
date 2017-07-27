@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent</dc:identifier>
 		<dc:date>2017-01-30T01:07:59Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:28:33Z</meta>
-		<meta property="se:revision-number">12</meta>
+		<meta property="dcterms:modified">2017-07-27T20:34:57Z</meta>
+		<meta property="se:revision-number">13</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,8 +40,8 @@
 		<dc:description id="description">A spy in London is ordered to stage a bombing to foment political and social chaos.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The place is London, and the time is the late 1800s.  Mr. Verloc appears to be an unassuming owner of a bric-a-brac store, but he’s actually a spy for an unnamed country.  When he’s summoned by his superiors and ordered to plant a bomb to foment unrest in English politics and society, he finds himself stuck in a more-than-uncomfortable situation.&lt;/p&gt;
-			&lt;p&gt;Conrad’s novel is set against the background of the Greenwich Observatory bombing, in which an anarchist unsuccessfully tried to detonate a bomb near the building.  Terrorist activity was on the rise, and Conrad uses the fear and uncertainty of the time to explore the meanings of duty and of evil, along with the influence politics and political movements have on terrorist violence.&lt;/p&gt;
+			&lt;p&gt;The place is London, and the time is the late 1800s. Mr. Verloc appears to be an unassuming owner of a bric-a-brac store, but he’s actually a spy for an unnamed country. When he’s summoned by his superiors and ordered to plant a bomb to foment unrest in English politics and society, he finds himself stuck in a more-than-uncomfortable situation.&lt;/p&gt;
+			&lt;p&gt;Conrad’s novel is set against the background of the Greenwich Observatory bombing, in which an anarchist unsuccessfully tried to detonate a bomb near the building. Terrorist activity was on the rise, and Conrad uses the fear and uncertainty of the time to explore the meanings of duty and of evil, along with the influence politics and political movements have on terrorist violence.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Secret Agent&lt;/i&gt; is widely considered one of Conrad’s finest novels, with modern critics praising its prescient forecast of 20th century politics and society.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
