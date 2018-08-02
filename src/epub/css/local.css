@@ -22,10 +22,6 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 footer{
 	text-align: right;
 	margin-top: 1em;
