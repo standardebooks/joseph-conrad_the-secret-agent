@@ -6,8 +6,8 @@
 }
 
 section[epub|type~="dedication"]{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] p{
@@ -17,6 +17,6 @@ section[epub|type~="dedication"] p{
 }
 
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
